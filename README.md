@@ -48,3 +48,26 @@ output_nodes = 1
 ```
 
 I got my best results with these values of parameters.
+
+
+## Training results
+
+```bash
+Progress: 100.0% ... Training loss: 0.048 ... Validation loss: 0.174
+```
+See the visual results over iteration:
+
+![training results](https://github.com/Shahrullo/BikeSharing/tree/main/images/loss.PNG)
+
+## Prediciton results
+
+The test data showing how well the neural network is modeling the data
+
+![training results](https://github.com/Shahrullo/BikeSharing/tree/main/images/prediction.PNG)
+
+## Author 
+
+* Shahrullohon Lutfillohonov
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
