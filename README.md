@@ -11,6 +11,4 @@ Below is a plot showing the number of bike riders over the first 10 days or so i
 
 
 
-
-  ![sample](https://github.com/Shahrullo/BikeSharing/tree/main/images/data_overview.PNG | width=100)
-
+<img src="https://github.com/Shahrullo/BikeSharing/tree/main/images/data_overview.PNG" alt="alt text" width=100 height=100>
