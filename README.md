@@ -17,13 +17,13 @@ Below is a plot showing the number of bike riders over the first 10 days or so i
 
 Thinks you have to install or installed on your working machine:
 
-* Python 3.7
-* Numpy (win-64 v1.15.4)
-* Pandas (win-64 v0.23.4)
-* Matplotlib (win-64 v3.0.2)
+* Python 3.8.5
+* Numpy (win-64 v1.191.2)
+* Pandas (win-64 v1.1.3)
+* Matplotlib (win-64 v3.3.2)
 * Jupyter Notebook
-* Torchvision (win-64 v0.2.1)
-* PyTorch (win-64 v0.4.1)
+* Torchvision (win-64 v0.8.2)
+* PyTorch (win-64 v1.7.1)
 
 ### Environment: 
 * [Anaconda](https://www.anaconda.com/download/)
