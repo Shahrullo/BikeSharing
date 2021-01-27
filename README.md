@@ -63,7 +63,7 @@ See the visual results over iteration:
 
 The test data showing how well the neural network is modeling the data
 
-![training results](https://github.com/Shahrullo/BikeSharing/tree/main/images/prediction.PNG)
+![prediction results](https://github.com/Shahrullo/BikeSharing/tree/main/images/prediction.PNG)
 
 ## Author 
 
