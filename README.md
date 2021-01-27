@@ -10,7 +10,7 @@ Bike-Sharing-Dataset has the number of riders for each hour of each day from Jan
 Below is a plot showing the number of bike riders over the first 10 days or so in the data set. (Some days don't have exactly 24 entries in the data set, so it's not exactly 10 days.) You can see the hourly rentals here. This data is pretty complicated! The weekends have lower over all ridership and there are spikes when people are biking to and from work during the week. Looking at the data above, we also have information about temperature, humidity, and windspeed, all of these likely affecting the number of riders. You'll be trying to capture all this with your model.
 
 
-<img src="https://github.com/Shahrullo/BikeSharing/tree/main/images/data_overview.PNG" width="100">
+![](https://github.com/Shahrullo/BikeSharing/blob/main/images/data_overview.PNG)
 
 
 ### Prerequisites
@@ -57,13 +57,13 @@ Progress: 100.0% ... Training loss: 0.048 ... Validation loss: 0.174
 ```
 See the visual results over iteration:
 
-![training results](https://github.com/Shahrullo/BikeSharing/tree/main/images/loss.PNG)
+![](https://github.com/Shahrullo/BikeSharing/blob/main/images/loss.PNG)
 
 ## Prediciton results
 
 The test data showing how well the neural network is modeling the data
 
-![prediction results](https://github.com/Shahrullo/BikeSharing/tree/main/images/prediction.PNG)
+![](https://github.com/Shahrullo/BikeSharing/blob/main/images/prediction.PNG)
 
 ## Author 
 
